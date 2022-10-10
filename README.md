@@ -1,2 +1,0 @@
-# educational
-Educational rep
