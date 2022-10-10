@@ -8,7 +8,17 @@
   },
   "author": "",
   "license": "ISC",
+  "browserslists": [
+    ">1%"
+  ],
   "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.4",
+    "core-js": "^3.25.5",
     "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "babel-loader": "^8.2.5"
   }
 }
